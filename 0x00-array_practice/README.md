@@ -17,7 +17,7 @@ your function would return:
 
 
 
-:onw: [reverse a list of chars]()
+:one: [reverse a list of chars]()
 
 Write a function that takes a list of characters and reverses the letters in place.
 
