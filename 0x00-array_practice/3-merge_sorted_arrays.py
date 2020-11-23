@@ -14,10 +14,7 @@ def merge_lists(my_list, alices_list):
         
         if my_list[my_index] < alices_list[alices_index]:
             new_list.append(my_list[my_index])
-            my_index += 1i 
-i 
-i 
-i 
+            my_index += 1
         else:
             new_list.append(alices_list[alices_index])
             alices_index += 1
