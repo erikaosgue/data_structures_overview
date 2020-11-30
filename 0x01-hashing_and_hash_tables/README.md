@@ -33,5 +33,8 @@ Examples:
 Write code that takes a long string and builds its word cloud data in a dictionary, where the keys are words and the values are the number of times the words occurred. 
 
 
+:three: [Merge two sorted arrays]()
 
+
+:four: [First come, first served]()
 
